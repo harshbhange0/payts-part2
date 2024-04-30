@@ -1,4 +1,5 @@
-//app/(pages)/layout.tsx
+
+//app/(pages)/auth/layout.tsx
 export default function Layout({
   children,
 }: Readonly<{
