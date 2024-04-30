@@ -6,7 +6,9 @@ export default function Home() {
     <>
       <HomeHeader />
       <section>
-        <HeroSection />
+        <div className="">
+          <HeroSection />
+        </div >
       </section>
     </>
   );
